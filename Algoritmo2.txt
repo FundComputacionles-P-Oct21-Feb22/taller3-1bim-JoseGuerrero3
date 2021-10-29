@@ -1,0 +1,7 @@
+Generar un algoritmo que permite ingresar los gastos de tres hijos de un padre de familia; calcular y mostrar el total de gastos de los hijos del padre de familia.
+1.-Inicio
+2.-Se pregunta el valor de los gastos del primer hijo
+3.-Se pregunta el valor de los gastos del segundo hijo
+4.-Se pregunta el valor de los gastos del tercer hijo
+5.-Se realiza el proceso de calcular el total de los gastos sumando los gastos de todos los hijos.
+6.-Se muestra el valor de la suma del total.

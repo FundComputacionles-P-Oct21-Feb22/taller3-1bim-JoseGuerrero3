@@ -1,0 +1,4 @@
+Se desea desarrollar un algoritmo que permita mostrar la tabla de multiplicar de un número ingresado por el usuario; solo en el caso que el valor del número esté entre 2 y 6.
+1.-IniciO
+2.-Se pide el numero para mostrar la tabla.
+3.-Si el número esta entre 2 y 6 mostrar la tabla del numero seleccionado.
